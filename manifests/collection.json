@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://samanehzahedi90.github.io/TMDRA/manifests/json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://samanehzahedi90.github.io/TMDRA/manifests/Manifestjson",
+    "label" : "[Click to edit label]"
   } ]
 }
