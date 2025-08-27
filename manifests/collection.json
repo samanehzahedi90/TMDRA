@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://samanehzahedi90.github.io/TMDRA/manifests/manifest_json.json",
     "label" : "Images"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://samanehzahedi90.github.io/TMDRA/manifests/MJSON",
+    "label" : "[Click to edit label]"
   } ]
 }
