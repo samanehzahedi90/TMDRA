@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 23,
+    "height" : 41
+  }, {
+    "width" : 46,
+    "height" : 82
+  }, {
+    "width" : 92,
+    "height" : 164
+  }, {
+    "width" : 184,
+    "height" : 327
+  }, {
+    "width" : 368,
+    "height" : 654
+  }, {
+    "width" : 736,
+    "height" : 1307
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 736,
+  "@id" : "https://samanehzahedi90.github.io/TMDRA/images/Turin",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1307
+}

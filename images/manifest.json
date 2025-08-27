@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://samanehzahedi90.github.io/TMDRA/images/sea/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "sea"
+                ]
+            },
+            "height": 6000,
+            "width": 4000,
+            "items": [
+                {
+                    "id": "https://samanehzahedi90.github.io/TMDRA/images/sea/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://samanehzahedi90.github.io/TMDRA/images/sea/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://samanehzahedi90.github.io/TMDRA/images/sea/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 125,
+                                                "height": 188
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 375
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 750
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 1500
+                                            },
+                                            {
+                                                "width": 2000,
+                                                "height": 3000
+                                            },
+                                            {
+                                                "width": 4000,
+                                                "height": 6000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4000,
+                                        "@id": "https://samanehzahedi90.github.io/TMDRA/images/sea",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 6000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://samanehzahedi90.github.io/TMDRA/images/sea/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://samanehzahedi90.github.io/TMDRA/images/Silver/canvas/",
             "type": "Canvas",
             "label": {
@@ -84,6 +165,168 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://samanehzahedi90.github.io/TMDRA/images/Silver/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://samanehzahedi90.github.io/TMDRA/images/Turin/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Turin"
+                ]
+            },
+            "height": 1307,
+            "width": 736,
+            "items": [
+                {
+                    "id": "https://samanehzahedi90.github.io/TMDRA/images/Turin/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://samanehzahedi90.github.io/TMDRA/images/Turin/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://samanehzahedi90.github.io/TMDRA/images/Turin/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 23,
+                                                "height": 41
+                                            },
+                                            {
+                                                "width": 46,
+                                                "height": 82
+                                            },
+                                            {
+                                                "width": 92,
+                                                "height": 164
+                                            },
+                                            {
+                                                "width": 184,
+                                                "height": 327
+                                            },
+                                            {
+                                                "width": 368,
+                                                "height": 654
+                                            },
+                                            {
+                                                "width": 736,
+                                                "height": 1307
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 736,
+                                        "@id": "https://samanehzahedi90.github.io/TMDRA/images/Turin",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1307,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://samanehzahedi90.github.io/TMDRA/images/Turin/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://samanehzahedi90.github.io/TMDRA/images/Vienna/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Vienna"
+                ]
+            },
+            "height": 737,
+            "width": 588,
+            "items": [
+                {
+                    "id": "https://samanehzahedi90.github.io/TMDRA/images/Vienna/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://samanehzahedi90.github.io/TMDRA/images/Vienna/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://samanehzahedi90.github.io/TMDRA/images/Vienna/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 19,
+                                                "height": 24
+                                            },
+                                            {
+                                                "width": 37,
+                                                "height": 47
+                                            },
+                                            {
+                                                "width": 74,
+                                                "height": 93
+                                            },
+                                            {
+                                                "width": 147,
+                                                "height": 185
+                                            },
+                                            {
+                                                "width": 294,
+                                                "height": 369
+                                            },
+                                            {
+                                                "width": 588,
+                                                "height": 737
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 588,
+                                        "@id": "https://samanehzahedi90.github.io/TMDRA/images/Vienna",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 737,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://samanehzahedi90.github.io/TMDRA/images/Vienna/canvas/"
                         }
                     ]
                 }
